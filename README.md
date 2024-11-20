@@ -2,6 +2,4 @@
 The Image Learning Process of Niu and Ma
 
 
-
-牛马精神
-
+嵌入式软件开发工程师
